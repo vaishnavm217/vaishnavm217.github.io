@@ -1,0 +1,71 @@
+baseurl = "https://vaishnavm217.github.io"
+title = "Vaishnav Murali"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics= "UA-127228707-1"
+disqusShortname = "yourdiscussshortname"
+# staticDir = ["static"]
+[params]
+    author = "Vaishnav Murali"
+    info = "Computer Vision. Deep Learning. Backend Dev. Ionic PWA. Talks in Python"
+    description = "Vaishnav's personal website"
+    keywords = "blog,resume,files"
+    avatarurl = "Avatar_1.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = ""
+
+    hidecredits = false
+    hidecopyright = true
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/vaishnavm217/"
+[[params.social]]
+    name = "Email"
+    icon = "far fa-envelope fa-2x"
+    weight = 2
+    url = "mailto:vaishnavmurali@gmail.com"
+[[params.social]]
+    name = "Email"
+    icon = "far fa-envelope fa-2x"
+    weight = 2
+    url = "mailto:murali.v15@iiits.in"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin-in fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/vaishnavm217/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 3
+    url  = "/posts/"
+[[menu.main]]
+    name = "Resume"
+    weight = 2
+    url  = "/resume/Resume.pdf"
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
