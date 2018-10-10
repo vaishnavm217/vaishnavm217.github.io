@@ -12,7 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics= "UA-127228707-1"
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "vaishnavmurali"
 # staticDir = ["static"]
 [params]
     author = "Vaishnav Murali"

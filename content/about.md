@@ -19,24 +19,24 @@ slug = "about"
 
 #### Currently pursuing B.Tech Honors Final Year in Indian Institute Of Information Technology, Sri City.
 <div class="imageRow">
-<img src="College1.JPG" alt="drawing" width="24.75%"/>
-<img src="college2.jpg" alt="drawing" width="24.75%"/>
-<img src="college3.jpg" alt="drawing" width="24.75%"/>
-<img src="college4.jpg" alt="drawing" width="24.75%"/>
+<img src="College1.JPG" alt="drawing" width="24%"/>
+<img src="college2.jpg" alt="drawing" width="24%"/>
+<img src="college3.jpg" alt="drawing" width="24%"/>
+<img src="college4.jpg" alt="drawing" width="24%"/>
 </div>
 
 #### Foodie. Spends his stipend lavishly on it.
 <div class="imageRow">
-<img src="Snapchat-915502635.jpg" alt="drawing" width="24.75%"/>
-<img src="Snapchat-1856743530.jpg" alt="drawing" width="24.75%"/>
-<img src="Snapchat-1165202315_1.jpg" alt="drawing" width="24.75%"/>
-<img src="Snapchat-1992350261_1.jpg" alt="drawing" width="24.75%"/>
+<img src="Snapchat-915502635.jpg" alt="drawing" width="24%"/>
+<img src="Snapchat-1856743530.jpg" alt="drawing" width="24%"/>
+<img src="Snapchat-1165202315_1.jpg" alt="drawing" width="24%"/>
+<img src="Snapchat-1992350261_1.jpg" alt="drawing" width="24%"/>
 </div>
 
-#### Likes to roam around place. For adventure and peace.
+#### Likes to roam around places. For Adventure. For Peace.
 <div class="imageRow">
-<img src="airplane.jpg" alt="drawing" width="24.75%"/>
-<img src="fk2.JPG" alt="drawing" width="24.75%"/>
-<img src="jaipur.jpg" alt="drawing" width="24.75%"/>
-<img src="Snapchat-450129627.jpg" alt="drawing" width="24.75%"/>
+<img src="airplane.jpg" alt="drawing" width="24%"/>
+<img src="fk2.JPG" alt="drawing" width="24%"/>
+<img src="jaipur.jpg" alt="drawing" width="24%"/>
+<img src="Snapchat-450129627.jpg" alt="drawing" width="24%"/>
 </div>
